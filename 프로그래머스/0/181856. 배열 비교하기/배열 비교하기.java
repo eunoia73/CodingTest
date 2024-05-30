@@ -1,11 +1,6 @@
-import java.util.Arrays;
-
 class Solution {
     public int solution(int[] arr1, int[] arr2) {
         int answer = 0;
-        //배열 정렬하기
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
         
         //배열 합 구하기
         int sum1 = 0; 
