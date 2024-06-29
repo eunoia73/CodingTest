@@ -13,6 +13,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             answer[num2] = num_list[i];
             num2++;
+            
         }
         
         return answer;
