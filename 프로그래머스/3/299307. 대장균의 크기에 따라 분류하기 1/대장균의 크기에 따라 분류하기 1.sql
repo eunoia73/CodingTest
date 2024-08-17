@@ -6,3 +6,4 @@ SELECT ID,
             END AS 'SIZE'
 FROM ECOLI_DATA
 ;
+ 
