@@ -16,7 +16,7 @@ public class Main {
             if (num == arr[i]) answer++;
         }
         System.out.println(answer);
-
+ 
 
     }
 }
