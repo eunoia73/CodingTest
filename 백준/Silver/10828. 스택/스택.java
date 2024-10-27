@@ -39,7 +39,7 @@ public class Main {
                 }
             }
 
-        }
+        } 
 
         for (int i = 0; i < index; i++) {
             System.out.println(result[i]);
