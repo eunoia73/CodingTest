@@ -4,6 +4,6 @@ SELECT ID,
             WHEN 100 < SIZE_OF_COLONY && SIZE_OF_COLONY <= 1000 THEN 'MEDIUM'
             ELSE 'HIGH'
             END AS 'SIZE'
-FROM ECOLI_DATA
+FROM ECOLI_DATA 
 ;
   
