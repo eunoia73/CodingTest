@@ -7,7 +7,7 @@ class Solution {
                 n = i;
             break;
             }
-
+ 
         }
         String answer = "김서방은 "+n+"에 있다";
 
