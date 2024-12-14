@@ -5,7 +5,7 @@ class Solution {
         int num_p = 0;
         int num_y = 0;
         boolean answer = false;
-        
+         
         for (int i = 0; i < a.length(); i++) {
             if (a.charAt(i) == 'p') {
                 num_p++;
