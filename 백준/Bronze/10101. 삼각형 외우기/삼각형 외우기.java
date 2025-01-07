@@ -12,6 +12,6 @@ public class Main {
         else if (a == 60 && a == b && b == c) System.out.println("Equilateral");
         else if (a != b && a != c && b != c) System.out.println("Scalene");
         else System.out.println("Isosceles");
-
+ 
     }
 }
