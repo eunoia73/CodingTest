@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main { 
 
     //EOF end of file
     public static void main(String[] args) throws IOException {
